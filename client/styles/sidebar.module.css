@@ -1,0 +1,6 @@
+.wrapper {
+  height: 100%;
+  position: relative;
+  flex: 1;
+  padding-top: 10px;
+}
